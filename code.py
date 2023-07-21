@@ -1,0 +1,1 @@
+print("Hello Ajay, this is one line of python code")
